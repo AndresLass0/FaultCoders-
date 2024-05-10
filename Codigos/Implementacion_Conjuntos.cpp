@@ -1,7 +1,3 @@
-# Aplicacion de conjuntos en c++ con Set
-# Union-Interseccion
-
-```
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -87,5 +83,3 @@ int main() {
 
     return 0;
 }
-
-```
